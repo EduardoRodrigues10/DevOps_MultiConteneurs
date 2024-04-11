@@ -1,0 +1,5 @@
+asyncpg==0.27.
+fastapi==0.92.
+uvicorn==0.20.
+SQLAlchemy==2.0.
+psycopg2-binary
